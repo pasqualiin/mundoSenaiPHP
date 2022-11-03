@@ -6,7 +6,7 @@ Projeto criado com os alunos do Programa de Aprendizagem Industrial em Programa√
 
 
 <p align="center">
-  <img alt="Mundo Senai Cadastro" src=".github/mundoSenaiCapa.png" width="100%">
+  <img alt="Mundo Senai Cadastro" src="./img/mundoSenaiCapa.png" width="100%">
 </p>
 
 
